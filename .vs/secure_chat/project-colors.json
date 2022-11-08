@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e103571f-6dcd-40a8-a584-c27a3aeccfd4": {
+      "ProjectGuid": "e103571f-6dcd-40a8-a584-c27a3aeccfd4",
+      "DisplayName": "secure_chat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

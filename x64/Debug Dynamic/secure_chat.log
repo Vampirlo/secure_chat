@@ -1,0 +1,13 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл D:\vs_proj\secure_chat\x64\Debug Dynamic\resources уже существует.
+  D:\vs_proj\secure_chat\resources\ball.wav
+  D:\vs_proj\secure_chat\resources\sansation.ttf
+  Скопировано файлов:         2.
+  main.cpp
+d:\vs_proj\secure_chat\main.cpp(28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  secure_chat.vcxproj -> D:\vs_proj\secure_chat\x64\Debug Dynamic\secure_chat.exe
