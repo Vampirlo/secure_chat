@@ -115,7 +115,7 @@ ErrorType:
 	{
 		if (GetAsyncKeyState(VK_ESCAPE))
 		{
-			cin >> message;
+			getline(cin, message);
 			// после того, как считали сообщение, мы шифруем его. Помещаем сообщение в in.dat 
 			ofstream out;
 			out.open("in.dat");
